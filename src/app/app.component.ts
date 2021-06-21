@@ -14,6 +14,8 @@ export class AppComponent {
   result3: any;
   result4: any;
 
+  
+
   add() {
     this.result1 = parseInt(this.num1) + parseInt(this.num2);
   }
